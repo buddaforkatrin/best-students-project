@@ -1,0 +1,23 @@
+{
+  "name": "best-students-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buddaforkatrin/best-students-project.git"
+  },
+  "author": "Ekaterina Vaniukhina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buddaforkatrin/best-students-project/issues"
+  },
+  "homepage": "https://github.com/buddaforkatrin/best-students-project#readme",
+  "dependencies": {
+    "babel-plugin-istanbul": "^6.1.1",
+    "jest": "^29.7.0"
+  }
+}
